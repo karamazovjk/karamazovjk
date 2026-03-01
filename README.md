@@ -7,6 +7,3 @@
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
 
 
-### social:
-[![Lichess](https://img.shields.io/badge/Lichess-000000.svg?style=for-the-badge&logo=Lichess&logoColor=white)](https://lichess.org/@/karahmazov)
-[![Substack](https://img.shields.io/badge/Substack-FF6719.svg?style=for-the-badge&logo=Substack&logoColor=white)](https://substack.com/@jkaramazov)
