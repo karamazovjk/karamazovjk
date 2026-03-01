@@ -8,8 +8,3 @@ tech:
 
 
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)
-
-<div align="left">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karamazovjk&radius=16&theme=high-contrast&area=true&order=5&hide_title=true&hide_border=true&line=0D400D&point=692B13" height="300" alt="activity-graph graph"  />
-</div>
-
