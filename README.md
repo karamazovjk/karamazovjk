@@ -9,3 +9,8 @@ tech:
 ![](https://github-readme-stats.vercel.app/api?username=karamazovjk&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=karamazovjk&theme=highcontrast&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=karamazovjk&theme=highcontrast&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<div align="left">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karamazovjk&radius=16&theme=high-contrast&area=true&order=5&hide_title=true&hide_border=true&line=0D400D&point=692B13" height="300" alt="activity-graph graph"  />
+</div>
+
