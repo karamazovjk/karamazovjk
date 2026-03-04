@@ -1,0 +1,37 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/karamazovjk/archive/commit/a74bb53b22c31958d1c37d989be0eb8df5e089a9\"><strong>a</strong>74bb53b22c31958d1c37d989be0eb8df5e089a9</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"readme\".",
+    "body": "My favorite commit message words are:\n\n1. readme (used 31 times)\n2. project (used 29 times)\n3. add (used 20 times)\n4. removed (used 20 times)\n5. badges (used 15 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "sleepy-coder",
+    "tier": 0,
+    "desc": "I am a sleepy coder.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/karamazovjk/karamazovjk/commit/66e6781ca06e54169d9bafe682272fcc794277d3\">66e6781</a>\n- <a href=\"https://github.com/karamazovjk/karamazovjk/commit/08a4f1196a262460d1844abd5af939e2898a0b2d\">08a4f11</a>\n- <a href=\"https://github.com/karamazovjk/karamazovjk/commit/d8e9b795d8f9f1ddaa7550d023cd26acc369a451\">d8e9b79</a>\n- <a href=\"https://github.com/karamazovjk/karamazovjk/commit/e31c2a0feb98152a334bb012a7e7bed688192a5a\">e31c2a0</a>\n- <a href=\"https://github.com/karamazovjk/karamazovjk/commit/373e552f6d228ac5bf4513d9ab04168bc2aa20e8\">373e552</a>\n- <a href=\"https://github.com/karamazovjk/personal/commit/4b391a2d2dfa194b4755d0966170b99175189f82\">4b391a2</a>",
+    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/karamazovjk/university/commit/48f32a4f0e4c1c850ef3083bc74cc8b23e8c8c3c\">48f32a4</a>\n- <a href=\"https://github.com/karamazovjk/karamazovjk/commit/e7393c6fae28a565792e699198abe40f250df630\">e7393c6</a>\n- <a href=\"https://github.com/karamazovjk/archive/commit/265f3a49caa57f948a92b3ba0b1d77b183f80823\">265f3a4</a>\n- <a href=\"https://github.com/karamazovjk/archive/commit/dfb5b3b1e65ef0414a754dfd2a98697a761f3b51\">dfb5b3b</a>\n- <a href=\"https://github.com/karamazovjk/archive/commit/75a8bb6568ec2cc52d5a024797c6dec1795609d6\">75a8bb6</a>\n- <a href=\"https://github.com/karamazovjk/archive/commit/a74bb53b22c31958d1c37d989be0eb8df5e089a9\">a74bb53</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/karamazovjk/karamazovjk/commit/ffd3324cd163b08cee6135f037c75eb2dc63189f\">ffd3324</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
