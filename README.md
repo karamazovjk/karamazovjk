@@ -14,6 +14,6 @@ tech:
 <img align="left" width="64" src="./my-badges/the-ultimate-question.md" />
 <img align="left" width="64" src="./my-badges/cafe-commit.md" />
 <img align="left" width="64" src="./my-badges/friday-13.png" />
-<img align="left" width="64" src="./my-badges/may-the-4th.md" />
+<img align="left" width="64" src="./my-badges/may.png" />
 
 ⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔
