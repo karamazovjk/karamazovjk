@@ -12,7 +12,6 @@ tech:
 
 <a href="my-badges/favorite-word.md"><img src="https://my-badges.github.io/my-badges/favorite-word.png" alt="My favorite word is &quot;readme&quot;." title="My favorite word is &quot;readme&quot;." width="64"></a>
 <img align="left" width="64" src="./my-badges/this-is-fine.png" />
-<img align="left" width="64" src="./my-badges/the-ultimate-question.md" />
 <img align="left" width="64" src="./my-badges/cafe-commit.md" />
 <img align="left" width="64" src="./my-badges/friday-13.png" />
 <img align="left" width="64" src="./my-badges/may.png" />
