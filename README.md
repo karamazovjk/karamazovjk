@@ -17,5 +17,4 @@ tech:
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <!-- my-badges end -->
 
-<!-- badges start -->
-<!-- badges end -->
+<img src="this-is-fine.png" height="25">
