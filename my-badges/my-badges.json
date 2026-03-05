@@ -10,7 +10,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"readme\".",
-    "body": "My favorite commit message words are:\n\n1. readme (used 31 times)\n2. project (used 29 times)\n3. add (used 20 times)\n4. removed (used 20 times)\n5. badges (used 15 times)",
+    "body": "My favorite commit message words are:\n\n1. readme (used 31 times)\n2. project (used 29 times)\n3. add (used 22 times)\n4. removed (used 20 times)\n5. update (used 16 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -33,5 +33,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/karamazovjk/karamazovjk/commit/ffd3324cd163b08cee6135f037c75eb2dc63189f\">ffd3324</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/karamazovjk/karamazovjk/commit/ab3e49da1130a4458e35c580ac18a96369327424\"><strong>ab</strong>3e49da1130a4458e35c580ac18a96369327424</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   }
 ]
