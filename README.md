@@ -17,3 +17,4 @@ tech:
 <a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <!-- my-badges end -->
 
+![Isometric](https://isometric-contributions-spectrewolf8.onrender.com/api/graph?username=karamazovjk&year=2026&width=1200&height=700&stats=true&credit=true&theme=neon)
