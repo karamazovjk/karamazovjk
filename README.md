@@ -1,4 +1,4 @@
-<img align="right" width="300" src="./assets/brain.gif" />
+<img align="right" width="350" src="./assets/brain.gif" />
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=beatrizbapt115&cover_image=true&theme=novatorem&show_offline=false&background_color=394323&interchange=false&profanity=false&bar_color=442c26&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=beatrizbapt115&redirect=true)
 
