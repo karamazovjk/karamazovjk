@@ -1,5 +1,5 @@
 
-<img align="right" width="300" src="./assets/brain.gif" />
+<img align="right" width="350" src="./assets/brain.gif" />
 <a href="https://karamazov.pythonanywhere.com/link">
   <img
     src="https://karamazov.pythonanywhere.com?theme=dark&spin=true&eq_color=rainbow"
@@ -21,4 +21,4 @@ tech:
 <img align="left" width="64" src="./my-badges/friday-13.png" />
 <img align="left" width="64" src="./my-badges/may.png" />
 
-   ⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔
+⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔
