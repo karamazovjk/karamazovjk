@@ -1,12 +1,5 @@
 <img align="right" width="350" src="./assets/brain.gif" />
 
-<a href="https://karamazov.pythonanywhere.com/link">
-  <img
-    src="https://karamazov.pythonanywhere.com?theme=dark"
-    alt="Current Spotify Song"
-  />
-</a>
-
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=beatrizbapt115&cover_image=true&theme=novatorem&show_offline=false&background_color=394323&interchange=false&profanity=false&bar_color=442c26&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=beatrizbapt115&redirect=true)
 
 tech: 
