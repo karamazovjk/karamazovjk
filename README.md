@@ -20,6 +20,6 @@ tech:
 <img align="left" width="64" src="./my-badges/cube.png" />
 <img align="left" width="64" src="./my-badges/chess.png" />
 
-starting in the data area, learning new skills, passionate about research and obsessed with organization!
+  in the data area, learning new skills, passionate about research and obsessed with organization!
 
 ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔
