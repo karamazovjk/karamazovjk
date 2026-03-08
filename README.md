@@ -24,11 +24,9 @@ tech:
 <td valign="top" width="30%" align="right">
 
 <img width="300" src="./assets/brain.gif" />
-<br/>
-<img src="https://readme-typing-svg.herokuapp.com?..." />
 
 <!-- substitui essa linha pela sua imagem do data scientist -->
-<img width="300" src="./assets/data-scientist.gif" />
+<img width="300" src="./my-badges/DS.jpg" />
 
 </td>
 </tr>
