@@ -3,7 +3,7 @@
   <img
     src="https://karamazov.pythonanywhere.com?theme=dark&spin=true&eq_color=rainbow"
     alt="Current Spotify Song"
-    width="300"
+    width="350"
   />
 </a>
 
