@@ -19,6 +19,3 @@ tech:
 <img align="left" width="64" src="./my-badges/may.png" />
 <img align="left" width="64" src="./my-badges/cube.png" />
 <img align="left" width="64" src="./my-badges/chess.png" />
-                                                                                                                      
-
-⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔
