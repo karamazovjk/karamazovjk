@@ -3,7 +3,7 @@
   <img
     src="https://karamazov.pythonanywhere.com?theme=dark&spin=true&eq_color=rainbow"
     alt="Current Spotify Song"
-    width="350"
+    width="300"
   />
 </a>
 
@@ -20,6 +20,6 @@ tech:
 <img align="left" width="64" src="./my-badges/cube.png" />
 <img align="left" width="64" src="./my-badges/chess.png" />
 
-just a scientist transitioning to the data area, learning new skills, passionate about research and obsessed with organization
+scientist transitioning to the data area, learning new skills, passionate about research and obsessed with organization
 
 ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔
