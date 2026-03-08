@@ -19,7 +19,4 @@ tech:
 <img align="left" width="64" src="./my-badges/may.png" />
 <img align="left" width="64" src="./my-badges/cube.png" />
 <img align="left" width="64" src="./my-badges/chess.png" />
-
-  in the data area, learning new skills, passionate about research and obsessed with organization!
-
 ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔ ꒰ ᧔ෆ᧓ ꒱ ⏔⏔⏔⏔⏔⏔
