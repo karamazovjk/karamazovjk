@@ -20,6 +20,9 @@ tech:
 <img align="left" width="64" src="./my-badges/chess.png" />
 <img align="left" width="64" src="./my-badges/nerd.png" />
 <img align="left" width="64" src="./my-badges/camera.png" />
+<img align="left" width="64" src="./my-badges/falls.png" />
+<img align="left" width="70" src="./my-badges/pokemon.png" />
+
 
 ###
 
