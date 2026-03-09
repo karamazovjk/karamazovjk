@@ -18,6 +18,8 @@ tech:
 <img align="left" width="64" src="./my-badges/may.png" />
 <img align="left" width="64" src="./my-badges/cube.png" />
 <img align="left" width="64" src="./my-badges/chess.png" />
+<img align="left" width="64" src="./my-badges/nerd.png" />
+<img align="left" width="64" src="./my-badges/camera.png" />
 
 ###
 
