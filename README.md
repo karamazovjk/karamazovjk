@@ -7,6 +7,8 @@
   />
 </a>
 
+--------------------------
+
 tech: 
 ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=flat&logo=Canva&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=Kaggle&logoColor=white)![Substack](https://img.shields.io/badge/Substack-%23006f5c.svg?style=flat&logo=substack&logoColor=FF6719)
 
@@ -17,18 +19,11 @@ tech:
 <img align="left" width="64" src="./my-badges/cafe-commit.md" />
 <img align="left" width="64" src="./my-badges/may.png" />
 <img align="left" width="64" src="./my-badges/cube.png" />
-<img align="left" width="64" src="./my-badges/chess.png" />
-<img align="left" width="64" src="./my-badges/nerd.png" />
-<img align="left" width="64" src="./my-badges/camera.png" />
-<img align="left" width="64" src="./my-badges/falls.png" />
 <img align="left" width="70" src="./my-badges/pokemon.png" />
+<img align="left" width="64" src="./my-badges/chess.png" />
 
-
-###
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karamazovjk/karamazovjk/output/pacman-contribution-graph-dark.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karamazovjk/karamazovjk/output/pacman-contribution-graph.svg">
 </picture>
-
-###
