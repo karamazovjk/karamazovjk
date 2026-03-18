@@ -19,7 +19,6 @@ tech:
 <img align="left" width="64" src="./my-badges/cafe-commit.md" />
 <img align="left" width="64" src="./my-badges/may.png" />
 <img align="left" width="64" src="./my-badges/cube.png" />
-<img align="left" width="70" src="./my-badges/pokemon.png" />
 <img align="left" width="64" src="./my-badges/chess.png" />
 
 ----------------------------------------------------------------------------------------------------
