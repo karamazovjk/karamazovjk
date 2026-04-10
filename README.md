@@ -1,4 +1,6 @@
-
+<img align="right" width="300" src="./assets/brain.gif" />
+<a href="https://karamazov.pythonanywhere.com/link">
+ 
 --------------------------
 
 tech: 
