@@ -1,11 +1,3 @@
-<img align="right" width="300" src="./assets/brain.gif" />
-<a href="https://karamazov.pythonanywhere.com/link">
-  <img
-    src="https://karamazov.pythonanywhere.com?theme=dark&spin=true&eq_color=rainbow"
-    alt="Current Spotify Song"
-    width="350"
-  />
-</a>
 
 --------------------------
 
