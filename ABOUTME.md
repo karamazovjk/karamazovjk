@@ -23,7 +23,12 @@ Fora dos dados, fiz workshops de modelagem 3D, participei de um simpósio de neu
 
 ### contatos
 
-para mais informações acesse meu [Currículo](./currículo.pdf)
+Aberto a oportunidades de estágio em dados, análise ou pesquisa aplicada;
+para mais informações:
+
+- Email profissional: jacksonbaptistall@gmail.com
+- Currículo: [aqui](./currículo.pdf)
+
 
 
 
