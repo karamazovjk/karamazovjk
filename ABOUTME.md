@@ -27,7 +27,7 @@ Aberto a oportunidades de estágio em dados, análise ou pesquisa aplicada;
 para mais informações:
 
 - Email profissional: jacksonbaptistall@gmail.com
-- Currículo: [aqui](./currículo.pdf)
+- Currículo em pdf: [aqui](./currículo.pdf)
 
 
 
