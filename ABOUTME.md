@@ -38,5 +38,7 @@ para mais informações:
 - notebook samsung flash f30 64gb Intel Celeron N4000
 - teclado logitech K235 100% cinza
 - mouse sem fio new ion mk06-c03 transparente
+- air30 ultrapods max
 
 ----
+
