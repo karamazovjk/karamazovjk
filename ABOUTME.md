@@ -4,7 +4,7 @@
 ---
 
 ### sobre mim
-Me chamo Jack Baptista, estudante de Ciência de Dados e Neurociências na UFABC (Universidade Federal do ABC), atualmente construindo a interseção entre neurociência computacional e aprendizado de máquina - particularmente interessado em como LLMs e interfaces cérebro-computador se relacionam com a forma como os sistemas biológicos processam informações.
+Me chamo Jack Baptista, estudante de Ciência de Dados e Neurociências na Universidade Federal do ABC, atualmente construindo a interseção entre neurociência computacional e aprendizado de máquina - particularmente interessado em como LLMs e interfaces cérebro-computador se relacionam com a forma como os sistemas biológicos processam informações.
 
 Eu aprendo melhor praticando antes de ir para a teoria: Python veio da análise de dados, C veio da modificação de um PSP e da configuração do Linux, e o Arch Linux veio do desejo de realmente entender o que está sendo executado na minha máquina. A maioria dos meus projetos parte de uma questão prática e acaba indo mais fundo do que o planejado.
 
@@ -31,5 +31,12 @@ para mais informações:
 
 
 
-
 ---
+
+### setup atual
+
+- notebook samsung flash f30 64gb Intel Celeron N4000
+- teclado logitech K235 100% cinza
+- mouse sem fio new ion mk06-c03 transparente
+
+----
