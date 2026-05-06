@@ -8,7 +8,6 @@
 
 *Personal dotfiles — Arch Linux + Hyprland rice*
 
-[PT-BR](#pt-br)
 
 </div>
 
