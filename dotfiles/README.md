@@ -1,4 +1,4 @@
-#  my dotfiles
+#                                  my dotfiles
 
 <div align="center">
 
@@ -14,7 +14,6 @@
 
 ---
 
-
 Configurações pessoais do meu setup Arch Linux com Hyprland. Migrei do Windows em 2025 em uma decisão impulsiva mas sem arrependimentos. O setup roda em um **Samsung NP530XBB** (Celeron N4000, 4GB RAM) — prova de que dá pra fazer um rice decente em hardware modesto.
 
 ### 📦 Estrutura do repo
@@ -24,7 +23,7 @@ dotfiles/
 ├── hypr/          # Hyprland — WM, keybinds, gestures, animações
 ├── waybar/        # Barra de status customizada
 ├── rofi/          # Launcher de aplicativos
-├── kitty/         # Emulador de terminal (Wayland nativo)
+├── kitty/         # Emulador de terminal (Wayland nativo) — tema MonaLisa
 ├── zsh/           # Shell — oh-my-zsh + Powerlevel10k
 ├── vscodium/      # Editor de código (fork open-source do VSCode)
 ├── hyprpaper/     # Wallpaper daemon do Hyprland
@@ -32,6 +31,9 @@ dotfiles/
 ├── swaylock/      # Lockscreen
 ├── fastfetch/     # Fetch do sistema customizado
 ├── hyde/          # HyDE — framework de theming
+├── spotify-player/ # Player Spotify TUI
+├── sysctl/        # Otimizações do kernel
+├── systemd/       # zram
 ├── scripts/
 │   └── arch-cleanup.sh   # Script de limpeza do sistema
 └── install.sh     # Backup e restore das configs
@@ -48,7 +50,7 @@ dotfiles/
 | **VSCodium** | Editor de código | `vscodium-bin` |
 | **Brave** | Navegador | `brave-bin` |
 | **Joplin** | Notas | `joplin` |
-| **Spotify** | Música | `spotify` |
+| **spotify-player** | Música (TUI) | `spotify-player` |
 | **btop** | Monitor do sistema | `btop` |
 | **fastfetch** | System fetch | `fastfetch` |
 | **HyDE** | Framework de theming | `hyde-cli-git` |
@@ -62,6 +64,21 @@ dotfiles/
 | **Powerlevel10k** | Tema do prompt | `zsh-theme-powerlevel10k-git` |
 | **yay** | AUR helper | `yay` |
 | **paccache** | Limpeza do cache pacman | `pacman-contrib` |
+
+### 🎨 Theming
+
+| Componente | Tema |
+|-----------|------|
+| Terminal (Kitty) | MonaLisa |
+| GTK | Gruvbox Dark |
+| Hyprland borders | Transparente |
+
+### ⚡ Otimizações (4GB RAM)
+
+- **zram** — swap comprimido em RAM com zstd, tamanho = RAM/2
+- **swappiness=10** — kernel usa swap só quando necessário
+- Firefox com `browser.tabs.unloadOnLowMemory=true` — descarrega abas inativas
+- `kactivitymanagerd` desativado — daemon KDE desnecessário no Hyprland
 
 ### 🚀 Como usar
 
