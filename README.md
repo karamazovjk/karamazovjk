@@ -1,6 +1,6 @@
 <a href="https://karamazov.pythonanywhere.com/link">
   <img
-    src="https://karamazov.pythonanywhere.com/api?theme=novatorem&background_color=0d1117&border_radius=0&bar_color=9b59b6&bar_color_cover=false&mode=dark"
+    src="https://karamazov.pythonanywhere.com/api?spin=true&theme=dark&eq_color=9b59b6"
     alt="Current Spotify Song"
     width="380"
   />
