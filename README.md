@@ -8,18 +8,24 @@
   />
 </a>
 
-
-
-
-
 𝚒 𝚞𝚜𝚎 𝚊𝚛𝚌𝚑 𝚋𝚝𝚠
- 
---------------------------
 
-stack: 
-![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=flat&logo=Arch-Linux&logoColor=white)  ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white)  ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=Kaggle&logoColor=white)
+---
 
-![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white)![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white)   ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black)   ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white)   ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black)  ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=C&logoColor=black)
+estudante de Ciência de Dados e Neurociências na UFABC — construindo a interseção entre
+neurociência computacional e machine learning. aprendo melhor praticando: Python veio dos
+dados, C veio do PSP, e o Arch veio do desejo de entender o que roda na minha máquina.
+
+**atualmente →** estagiário em dados · aberto a freelance de análise
+
+📬 [jacksonbaptistall@gmail.com](mailto:jacksonbaptistall@gmail.com) · [currículo](https://github.com/karamazovjk/karamazovjk/blob/main/curr%C3%ADculo.pdf)
+
+---
+
+**stack:**
+
+![Arch](https://img.shields.io/badge/Arch%20Linux-1793D1.svg?style=flat&logo=Arch-Linux&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=flat&logo=mysql&logoColor=white) ![VScode](https://img.shields.io/badge/VSCode-0078D4?style=flat&logo=visual%20studio%20code&logoColor=white) ![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=flat&logo=Kaggle&logoColor=white)
+![Neovim](https://img.shields.io/badge/Neovim-57A143?style=flat&logo=neovim&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=flat&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=flat&logo=pandas&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=flat&logo=Matplotlib&logoColor=black) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat&logo=notion&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=flat&logo=powerbi&logoColor=black) ![C](https://img.shields.io/badge/C-A8B9CC.svg?style=flat&logo=C&logoColor=black)
 
 <img align="left" width="64" src="./my-badges/this-is-fine.png" />
 <img align="left" width="64" src="./my-badges/cafe-commit.md" />
@@ -27,7 +33,7 @@ stack:
 <img align="left" width="64" src="./my-badges/cube.png" />
 <img align="left" width="64" src="./my-badges/chess.png" />
 
---------------------------
+---
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karamazovjk/karamazovjk/output/pacman-contribution-graph-dark.svg">
