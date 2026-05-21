@@ -1,9 +1,5 @@
 <a href="https://karamazov.pythonanywhere.com/link">
-  <img
-    src="https://karamazov.pythonanywhere.com/api?spin=true&theme=dark&eq_color=9b59b6"
-    alt="Current Spotify Song"
-    width="380"
-  />
+  <img src="https://karamazov.pythonanywhere.com/api?spin=true&theme=dark&eq_color=9b59b6" width="380" />
 </a>
 
 
