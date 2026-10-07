@@ -1,12 +1,3 @@
-<img align="right" width="300" src="./assets/brain.gif" />
-
-<a href="https://karamazov.pythonanywhere.com/link">
-  <img
-    src="https://karamazov.pythonanywhere.com/api?spin=true&amp;theme=dark&amp;eq_color=9b59b6"
-    alt="Current Spotify Song"
-    width="380"
-  />
-</a>
 
 𝚒 𝚞𝚜𝚎 𝚊𝚛𝚌𝚑 𝚋𝚝𝚠
 
