@@ -22,10 +22,3 @@
 <p align="center">
   <img src="https://www.gitskins.com/api/section/heatmap?username=karamazovjk&theme=satan" alt="karamazovjk contribution activity" />
 </p>
-
----
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/karamazovjk/karamazovjk/output/pacman-contribution-graph-dark.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/karamazovjk/karamazovjk/output/pacman-contribution-graph.svg">
-</picture>
