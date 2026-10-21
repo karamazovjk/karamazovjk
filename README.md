@@ -7,18 +7,17 @@
 ----------
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/projects?username=karamazovjk&theme=neon&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F233447432%3Fu%3D76cace816edffcd6bcb881b4a15664867eb0aa74%26v%3D4" alt="karamazovjk projects visual" />
+<img src="https://www.gitskins.com/api/section/projects?username=karamazovjk&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F233447432%3Fu%3Dd535233b174dc657dcfe59f16fc7e32f9ed167bd%26v%3D4&v=showcase-projects-3" alt="baptiste projects visual" />
 </p>
 
-
-
---------------------
-
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/stats?username=karamazovjk&theme=satan&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F233447432%3Fu%3D76cace816edffcd6bcb881b4a15664867eb0aa74%26v%3D4" alt="karamazovjk stats visual" />
+<img src="https://www.gitskins.com/api/section/stats?username=karamazovjk&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F233447432%3Fu%3Dd535233b174dc657dcfe59f16fc7e32f9ed167bd%26v%3D4&v=showcase-stats-4" alt="baptiste stats visual" />
 </p>
 
+<p align="center">
+<img src="https://www.gitskins.com/api/section/stack?username=karamazovjk&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F233447432%3Fu%3Dd535233b174dc657dcfe59f16fc7e32f9ed167bd%26v%3D4&v=showcase-stack-4" alt="baptiste stack visual" />
+</p>
 
 <p align="center">
-  <img src="https://www.gitskins.com/api/section/heatmap?username=karamazovjk&theme=satan" alt="karamazovjk contribution activity" />
+<img src="https://www.gitskins.com/api/section/heatmap?username=karamazovjk&theme=matrix&style=aura&avatar=https%3A%2F%2Favatars.githubusercontent.com%2Fu%2F233447432%3Fu%3Dd535233b174dc657dcfe59f16fc7e32f9ed167bd%26v%3D4&v=showcase-heatmap-5" alt="baptiste heatmap visual" />
 </p>
